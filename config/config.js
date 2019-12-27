@@ -148,6 +148,18 @@ export default {
               component: './ListSearchArticles',
             },
             {
+              name: 'studentportraits',
+              icon: 'smile',
+              path: '/studentportraits',
+              component: './studentPortraits',
+            },
+            {
+              name: 'teachersportrait',
+              icon: 'smile',
+              path: '/teachersportrait',
+              component: './teachersPortrait',
+            },
+            {
               component: './404',
             },
           ],

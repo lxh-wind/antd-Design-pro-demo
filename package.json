@@ -49,6 +49,7 @@
   ],
   "dependencies": {
     "@ant-design/pro-layout": "^4.10.0",
+    "@ant-design/pro-table": "^1.0.22",
     "@antv/data-set": "^0.10.2",
     "@types/lodash.debounce": "^4.0.6",
     "@types/react-router": "^5.0.2",

@@ -11,7 +11,7 @@ export default {
   menu: {
     locale: true,
   },
-  title: 'Ant Design Pro',
+  title: '日志系统',
   pwa: false,
   iconfontUrl: '',
 };
